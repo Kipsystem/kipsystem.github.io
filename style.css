@@ -1,5 +1,5 @@
 body {
-	height: 3000px;
+	height: 2500px;
 	margin: 0;
 	padding-bottom: 7rem;
 }
@@ -21,4 +21,13 @@ body {
 .caption {
 	color: red;
 	font-size: x-large;
+}
+.qty {
+	width: 300px;
+}
+#footer {
+	background-color: black;
+	text-align: center;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
 }
